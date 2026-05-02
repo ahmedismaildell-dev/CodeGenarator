@@ -1,4 +1,4 @@
-# Code Generator (C# | SQL | Architecture)
+# 3-Tier Architecture Code Generator (C# & SQL)
 
 ## 📌 Overview
 
